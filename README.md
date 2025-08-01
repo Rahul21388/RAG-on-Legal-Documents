@@ -93,6 +93,3 @@ This project demonstrates how to build a **Retrieval-Augmented Generation (RAG)*
 - NLTK, sklearn, tqdm, dotenv
 
 ---
-
-## 📁 File Structure
-
