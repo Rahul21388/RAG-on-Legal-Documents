@@ -93,3 +93,8 @@ This project demonstrates how to build a **Retrieval-Augmented Generation (RAG)*
 - NLTK, sklearn, tqdm, dotenv
 
 ---
+
+## 👨‍💻 Authors
+
+**Neha,** **Rahul Shetty,** **Rahul Singh**  
+*Data Science | Machine Learning | NLP Enthusiast*
